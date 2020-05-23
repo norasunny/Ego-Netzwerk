@@ -2,7 +2,7 @@ from,to,weight,duration,relationship
 Nora,Dennis,4,1,9
 Nora,Louisa,3,3,7
 Nora,Bettina,4,1,4
-Nora,Lili,4,1,7
+Nora,Lili,4,1,6
 Dennis,Nora,4,1,9
 Dennis,Louisa,1,1,99
 Dennis,Bettina,3,1,7
@@ -12,6 +12,6 @@ Louisa,Dennis,1,1,99
 Bettina,Nora,4,1,4
 Bettina,Dennis,3,1,7
 Bettina,Lili,1,1,99
-Lili,Nora,4,1,7
+Lili,Nora,4,1,6
 Lili,Dennis,1,1,99
 Lili,Bettina,1,1,99
